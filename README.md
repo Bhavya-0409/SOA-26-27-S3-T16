@@ -1,4 +1,4 @@
-# Find & Lost – Intelligent Lost and Found Management System
+# FindEase – Intelligent Lost and Found Portal
 
 ## Team Members
 
